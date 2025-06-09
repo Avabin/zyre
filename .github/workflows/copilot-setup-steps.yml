@@ -7,11 +7,11 @@ on:
       - '.github/workflows/copilot-setup-steps.yml'
 
 jobs:
-  setup-dev-env:
+  copilot-setup-steps:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: [ubuntu-latest, windows-latest, macos-latest]
+        os: [ubuntu-latest]
         python-version: ['3.12']
         dotnet-version: ['9.0.x']
 
