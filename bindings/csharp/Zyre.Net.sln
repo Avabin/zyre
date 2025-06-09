@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zyre.Net", "Zyre.Net\Zyre.Net.csproj", "{99B7F0D7-8D68-44E4-82B3-A56868E4C5A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zyre.Net.Tests", "Zyre.Net.Tests\Zyre.Net.Tests.csproj", "{419D539B-5FD5-4680-B95B-01F15AE0CDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zyre.Net.Examples", "Zyre.Net.Examples\Zyre.Net.Examples.csproj", "{83B6A2F7-03E1-489F-B328-0E38EAEF94DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B7F0D7-8D68-44E4-82B3-A56868E4C5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B7F0D7-8D68-44E4-82B3-A56868E4C5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B7F0D7-8D68-44E4-82B3-A56868E4C5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B7F0D7-8D68-44E4-82B3-A56868E4C5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419D539B-5FD5-4680-B95B-01F15AE0CDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419D539B-5FD5-4680-B95B-01F15AE0CDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419D539B-5FD5-4680-B95B-01F15AE0CDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419D539B-5FD5-4680-B95B-01F15AE0CDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B6A2F7-03E1-489F-B328-0E38EAEF94DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B6A2F7-03E1-489F-B328-0E38EAEF94DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B6A2F7-03E1-489F-B328-0E38EAEF94DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B6A2F7-03E1-489F-B328-0E38EAEF94DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
