@@ -133,3 +133,5 @@ nbproject/
 
 # editor backups
 *~
+*.nupkg
+packages/
